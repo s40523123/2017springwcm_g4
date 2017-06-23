@@ -15,141 +15,48 @@
 </v>
 <v t="amd.20160921213353.1"><vh>2016fall 簡報與網誌樣板系統</vh></v>
 <v t="amd.20160106095324.1" a="E"><vh>@path ./../</vh>
-<v t="leo.20151213173830.1" a="E"><vh>假如要在近端檢視, 使用下列按鈕</vh>
+<v t="leo.20151213173830.1"><vh>假如要在近端檢視, 使用下列按鈕</vh>
 <v t="leo.20151213085727.1"><vh>@button pelican-blog</vh></v>
 </v>
 <v t="amd.20151215180106.1" a="E"><vh>設定與開發</vh>
-<v t="amd.20151216151325.1"><vh>@clean index.html</vh>
+<v t="amd.20151216151325.1" a="E"><vh>@clean index.html</vh>
 <v t="amd.20161004083800.1" a="E"><vh>html</vh>
 <v t="amd.20161004083800.2"><vh>head</vh></v>
 <v t="amd.20161004083800.5" a="E"><vh>body</vh>
-<v t="amd.20161004083800.6" a="E"><vh>reveal div</vh>
-<v t="amd.20161004083800.7" a="E"><vh>slides div</vh>
+<v t="amd.20161004083800.7"><vh>slides div</vh></v>
 <v t="amd.20161004095719.1" a="E"><vh>封面投影片</vh>
-<v t="amd.20161004095719.2"><vh>封面投影片內容</vh></v>
+<v t="amd.20161004095719.2"><vh>網路線-1</vh>
+<v t="leo.20170623004106.1"><vh>newHeadline</vh></v>
 </v>
-<v t="yen.20161016023122.1" a="E"><vh>快捷鍵</vh>
-<v t="yen.20161016023122.2"><vh>投影片快捷鍵</vh></v>
+<v t="leo.20170623005150.1"><vh>網路線-2</vh>
+<v t="leo.20170623005154.1"><vh>newHeadline</vh></v>
 </v>
-<v t="amd.20161004104820.1"><vh>三大主題教學</vh>
-<v t="amd.20161004104641.1" a="E"><vh>主題教學</vh>
-<v t="amd.20161004104641.2"><vh>計算機程式在教什麼?</vh></v>
+<v t="leo.20170623011730.2"><vh>網路線-3</vh>
+<v t="leo.20170623011730.1"><vh>newHeadline</vh></v>
 </v>
-<v t="yen.20161011155543.1" a="E"><vh>主題教學內容</vh>
-<v t="yen.20161011155543.2"><vh>計算機程式在教什麼?</vh></v>
+<v t="leo.20170623110900.1"><vh>Fossil</vh>
+<v t="leo.20170623110907.1"><vh>newHeadline</vh></v>
 </v>
-<v t="yen.20161011115740.1" a="E"><vh>相關課程</vh>
-<v t="yen.20161011115740.2"><vh>計算機程式系列課程</vh></v>
+<v t="leo.20170623110936.1"><vh>CMSIMPLY</vh>
+<v t="leo.20170623110941.1"><vh>newHeadline</vh></v>
 </v>
-<v t="amd.20161004105131.1" a="E"><vh>創造力</vh>
-<v t="amd.20161004105131.2"><vh>何謂創造力?</vh></v>
+<v t="leo.20170623111355.1"><vh>在VirtualBox中安裝Ubuntu16.04</vh>
+<v t="leo.20170623111400.1"><vh>newHeadline</vh></v>
 </v>
-<v t="yen.20161011114704.1" a="E"><vh>創造力</vh>
-<v t="yen.20161011114704.2"><vh>何謂創造力?</vh></v>
+<v t="leo.20170623111404.2"><vh>在Ubuntu16.04中安裝nginx及設定網路</vh>
+<v t="leo.20170623111404.1"><vh>newHeadline</vh></v>
 </v>
-<v t="yen.20161011121637.1"><vh>所謂自學</vh>
-<v t="yen.20161011121637.2"><vh>自學的訓練</vh></v>
+<v t="leo.20170623111804.1"><vh>在Ubuntu 16.04 環境下啟動 Stunnel 與 Fossil SCM</vh>
+<v t="leo.20170623111810.1"><vh>newHeadline</vh></v>
 </v>
-<v t="amd.20161004105716.1"><vh>執行力</vh>
-<v t="amd.20161004105716.2"><vh>高效執行力</vh></v>
-</v>
-</v>
-<v t="yen.20161016004633.1"><vh>CP 課程倉儲</vh>
-<v t="yen.20161016004633.4"><vh>課程時段與規劃</vh>
-<v t="yen.20161016004633.5"><vh>規劃、Wiki 與網誌</vh></v>
-</v>
-<v t="yen.20161016010643.1"><vh>下載 miniconda 可攜環境</vh>
-<v t="yen.20161016010643.2"><vh>下載可攜程式環境</vh></v>
-</v>
-<v t="yen.20161016010719.1" a="E"><vh>學員自評項目</vh>
-<v t="yen.20161016012922.1"><vh>下載可攜程式環境</vh></v>
-</v>
-</v>
-<v t="yen.20161011122932.1"><vh>自學力訓練</vh>
-<v t="yen.20161011122601.1" a="E"><vh>自學的材料</vh>
-<v t="yen.20161011122601.2"><vh>自學 Python3</vh></v>
-</v>
-<v t="yen.20161011122957.1" a="E"><vh>Python 執行環境</vh>
-<v t="yen.20161011122957.2"><vh>在哪裡執行?</vh></v>
-</v>
-<v t="yen.20161011123951.1" a="E"><vh>Python 解譯器</vh>
-<v t="yen.20161011123951.2"><vh>Python 解譯器</vh></v>
-</v>
-<v t="yen.20161011124118.1" a="E"><vh>Python 版次</vh>
-<v t="yen.20161011124118.2"><vh>Python 2 或 3?</vh></v>
-</v>
-</v>
-<v t="yen.20161011125115.1"><vh>執行力訓練</vh>
-<v t="yen.20161016011920.1" a="E"><vh>程式練習主題</vh>
-<v t="yen.20161016011920.2"><vh>程式專題</vh></v>
-</v>
-<v t="yen.20161011125115.2" a="E"><vh>如何進行上課分組與排座位</vh>
-<v t="yen.20161011125115.3"><vh>課程分組排座位</vh></v>
-</v>
-<v t="yen.20161016012215.1" a="E"><vh>如何寫一個猜數字遊戲?</vh>
-<v t="yen.20161016012215.2"><vh>猜數字遊戲</vh></v>
-</v>
-<v t="yen.20161016012253.1" a="E"><vh>如何繪製 2D 靜態圖?</vh>
-<v t="yen.20161016012253.2"><vh>2D 繪圖</vh></v>
-</v>
-<v t="yen.20161016012402.1" a="E"><vh>如何製作一個簡單的網際遊戲?</vh>
-<v t="yen.20161016012402.2"><vh>網際遊戲</vh></v>
-</v>
-</v>
-<v t="yen.20161011143808.1"><vh>協同力訓練</vh>
-<v t="yen.20161011143808.2" a="E"><vh>Github 帳號</vh>
-<v t="yen.20161011143808.3"><vh>Github 倉儲網頁</vh></v>
-</v>
-<v t="yen.20161011144113.1"><vh>倉儲子模組串連</vh>
-<v t="yen.20161011144113.2"><vh>學員作業網頁定版</vh></v>
-</v>
-<v t="yen.20161011144715.1"><vh>倉儲版本拉回請求</vh>
-<v t="yen.20161011144715.2"><vh>Github 倉儲拉回請求</vh></v>
-</v>
-</v>
-<v t="yen.20161011145156.1"><vh>開始學 Python</vh>
-<v t="yen.20161011145156.2" a="E"><vh>Python 基本語法</vh>
-<v t="yen.20161011145156.3"><vh>Python3 語法</vh></v>
-</v>
-<v t="yen.20161011145156.4" a="E"><vh>Python 迴圈</vh>
-<v t="yen.20161011145156.5"><vh>for 迴圈用法</vh></v>
-</v>
-<v t="yen.20161011145156.6"><vh>Python 函式</vh>
-<v t="yen.20161011145156.7"><vh>函式用法</vh></v>
-</v>
-<v t="yen.20161011145755.1"><vh>Python 數列</vh>
-<v t="yen.20161011145755.2"><vh>數列用法</vh></v>
-</v>
-<v t="yen.20161011145952.1"><vh>分組程式</vh>
-<v t="yen.20161011145952.2"><vh>分組程式內容</vh></v>
-</v>
-<v t="yen.20161011150316.1"><vh>猜數字遊戲</vh>
-<v t="yen.20161011150316.2"><vh>遊戲邏輯</vh></v>
-</v>
-<v t="yen.20161011150126.1"><vh>2 D 繪圖</vh>
-<v t="yen.20161011150126.2"><vh>Python 網際繪圖</vh></v>
-</v>
-<v t="yen.20161011150901.1"><vh>2 D 動畫</vh>
-<v t="yen.20161011150901.2"><vh>網際動畫範例</vh></v>
-</v>
-</v>
-<v t="yen.20161016012809.1" a="E"><vh>各式內容引用範例</vh>
-<v t="yen.20161016012809.2" a="E"><vh>導入數學符號與方程式</vh>
-<v t="yen.20161016012809.3"><vh>LaTeX 格式方程式</vh></v>
-</v>
-<v t="yen.20161016012809.4" a="E"><vh>導入縮排程式碼</vh>
-<v t="yen.20161016012809.5"><vh>引用程式碼</vh></v>
-</v>
-<v t="yen.20161016012809.6" a="E"><vh>導入影片</vh>
-<v t="yen.20161016012809.7"><vh>iframe 導入影片</vh></v>
+<v t="leo.20170623112218.1"><vh>END</vh>
+<v t="leo.20170623112223.1"><vh>newHeadline</vh></v>
 </v>
 </v>
 </v>
 </v>
 </v>
-</v>
-</v>
-<v t="leo.20151213230723.1" a="E"><vh>Pelican 設定</vh>
+<v t="leo.20151213230723.1"><vh>Pelican 設定</vh>
 <v t="leo.20151213230957.1"><vh>文章 Date 設定</vh></v>
 <v t="leo.20151213230729.1"><vh>使用 summary plugin</vh></v>
 </v>
@@ -170,7 +77,7 @@
 </v>
 </v>
 </v>
-<v t="amd.20160106094754.1" a="E"><vh>@path ./../content/pages</vh>
+<v t="amd.20160106094754.1"><vh>@path ./../content/pages</vh>
 <v t="amd.20160106094829.1"><vh>yen 所寫的 pages 文章</vh>
 <v t="amd.20160106094844.1"><vh>@edit pages_1.md</vh></v>
 </v>
@@ -180,11 +87,11 @@
 <v t="leo.20161209142152.1"><vh>@button https server</vh></v>
 <v t="leo.20161209142134.1"><vh>@button ipv6 https server</vh></v>
 <v t="yen.20161022151749.1"><vh>產生 .key 與 .crt</vh></v>
-<v t="yen.20161105200127.1" a="E"><vh>選課人員名單</vh>
+<v t="yen.20161105200127.1"><vh>選課人員名單</vh>
 <v t="yen.20161105200140.1"><vh>@edit a.txt</vh></v>
 <v t="yen.20161105200241.1"><vh>@edit b.txt</vh></v>
 </v>
-<v t="yen.20161105200145.1" a="E"><vh>分組名單</vh>
+<v t="yen.20161105200145.1"><vh>分組名單</vh>
 <v t="yen.20161105200154.1"><vh>@edit agroup.txt</vh></v>
 <v t="yen.20161105200234.1"><vh>@edit bgroup.txt</vh></v>
 </v>
@@ -505,16 +412,16 @@
 <v t="leo.20161118210944.238"><vh>old:引用程式碼</vh></v>
 <v t="leo.20161118210944.239"><vh>new:引用程式碼</vh></v>
 </v>
-<v t="leo.20161118210944.240"><vh>Recovered node "導入影片" from @clean index.html</vh>
+<v t="leo.20161118210944.240" a="E"><vh>Recovered node "導入影片" from @clean index.html</vh>
 <v t="leo.20161118210944.241"><vh>old:導入影片</vh></v>
 <v t="leo.20161118210944.242"><vh>new:導入影片</vh></v>
 </v>
-<v t="leo.20161118210944.243"><vh>Recovered node "iframe 導入影片" from @clean index.html</vh>
+<v t="leo.20161118210944.243" a="E"><vh>Recovered node "iframe 導入影片" from @clean index.html</vh>
 <v t="leo.20161118210944.244"><vh>old:iframe 導入影片</vh></v>
 <v t="leo.20161118210944.245"><vh>new:iframe 導入影片</vh></v>
 </v>
 </v>
-<v t="leo.20161223145325.2" a="E"><vh>Recovered Nodes</vh>
+<v t="leo.20161223145325.2"><vh>Recovered Nodes</vh>
 <v t="leo.20161223145325.3"><vh>Recovered node "head" from @clean index.html</vh>
 <v t="leo.20161223145325.4"><vh>old:head</vh></v>
 <v t="leo.20161223145325.5"><vh>new:head</vh></v>
@@ -568,7 +475,7 @@ print("hello")
 	&lt;head&gt;
 		&lt;meta charset="utf-8"&gt;
 
-		&lt;title&gt;40523123郝冠儒的計算機課程&lt;/title&gt;
+		&lt;title&gt;40523123網際內容管理&lt;/title&gt;
 
 		&lt;meta name="description" content="A framework for easily creating beautiful presentations using HTML"&gt;
 		&lt;meta name="author" content="Hakim El Hattab"&gt;
@@ -600,324 +507,6 @@ print("hello")
 </t>
 <t tx="amd.20161004083800.5">
 @others
-				&lt;section&gt;
-					&lt;section&gt;
-						&lt;h2&gt;Vertical Slides&lt;/h2&gt;
-						&lt;p&gt;Slides can be nested inside of each other.&lt;/p&gt;
-						&lt;p&gt;Use the &lt;em&gt;Space&lt;/em&gt; key to navigate through all slides.&lt;/p&gt;
-						&lt;br&gt;
-						&lt;a href="#" class="navigate-down"&gt;
-							&lt;img width="178" height="238" data-src="https://s3.amazonaws.com/hakim-static/reveal-js/arrow.png" alt="Down arrow"&gt;
-						&lt;/a&gt;
-					&lt;/section&gt;
-					&lt;section&gt;
-						&lt;h2&gt;Basement Level 1&lt;/h2&gt;
-						&lt;p&gt;Nested slides are useful for adding additional detail underneath a high level horizontal slide.&lt;/p&gt;
-					&lt;/section&gt;
-					&lt;section&gt;
-						&lt;h2&gt;Basement Level 2&lt;/h2&gt;
-						&lt;p&gt;That's it, time to go back up.&lt;/p&gt;
-						&lt;br&gt;
-						&lt;a href="#/2"&gt;
-							&lt;img width="178" height="238" data-src="https://s3.amazonaws.com/hakim-static/reveal-js/arrow.png" alt="Up arrow" style="transform: rotate(180deg); -webkit-transform: rotate(180deg);"&gt;
-						&lt;/a&gt;
-					&lt;/section&gt;
-				&lt;/section&gt;
-
-				&lt;section&gt;
-					&lt;h2&gt;Slides&lt;/h2&gt;
-					&lt;p&gt;
-						Not a coder? Not a problem. There's a fully-featured visual editor for authoring these, try it out at &lt;a href="http://slides.com" target="_blank"&gt;http://slides.com&lt;/a&gt;.
-					&lt;/p&gt;
-				&lt;/section&gt;
-
-				&lt;section&gt;
-					&lt;h2&gt;Point of View&lt;/h2&gt;
-					&lt;p&gt;
-						Press &lt;strong&gt;ESC&lt;/strong&gt; to enter the slide overview.
-					&lt;/p&gt;
-					&lt;p&gt;
-						Hold down alt and click on any element to zoom in on it using &lt;a href="http://lab.hakim.se/zoom-js"&gt;zoom.js&lt;/a&gt;. Alt + click anywhere to zoom back out.
-					&lt;/p&gt;
-				&lt;/section&gt;
-
-				&lt;section&gt;
-					&lt;h2&gt;Touch Optimized&lt;/h2&gt;
-					&lt;p&gt;
-						Presentations look great on touch devices, like mobile phones and tablets. Simply swipe through your slides.
-					&lt;/p&gt;
-				&lt;/section&gt;
-
-				&lt;section data-markdown&gt;
-					&lt;script type="text/template"&gt;
-						## Markdown support
-
-						Write content using inline or external Markdown.
-						Instructions and more info available in the [readme](https://github.com/hakimel/reveal.js#markdown).
-
-						```
-						&lt;section data-markdown&gt;
-						  ## Markdown support
-
-						  Write content using inline or external Markdown.
-						  Instructions and more info available in the [readme](https://github.com/hakimel/reveal.js#markdown).
-						&lt;/section&gt;
-						```
-					&lt;/script&gt;
-				&lt;/section&gt;
-
-				&lt;section&gt;
-					&lt;section id="fragments"&gt;
-						&lt;h2&gt;Fragments&lt;/h2&gt;
-						&lt;p&gt;Hit the next arrow...&lt;/p&gt;
-						&lt;p class="fragment"&gt;... to step through ...&lt;/p&gt;
-						&lt;p&gt;&lt;span class="fragment"&gt;... a&lt;/span&gt; &lt;span class="fragment"&gt;fragmented&lt;/span&gt; &lt;span class="fragment"&gt;slide.&lt;/span&gt;&lt;/p&gt;
-
-						&lt;aside class="notes"&gt;
-							This slide has fragments which are also stepped through in the notes window.
-						&lt;/aside&gt;
-					&lt;/section&gt;
-					&lt;section&gt;
-						&lt;h2&gt;Fragment Styles&lt;/h2&gt;
-						&lt;p&gt;There's different types of fragments, like:&lt;/p&gt;
-						&lt;p class="fragment grow"&gt;grow&lt;/p&gt;
-						&lt;p class="fragment shrink"&gt;shrink&lt;/p&gt;
-						&lt;p class="fragment fade-out"&gt;fade-out&lt;/p&gt;
-						&lt;p class="fragment fade-up"&gt;fade-up (also down, left and right!)&lt;/p&gt;
-						&lt;p class="fragment current-visible"&gt;current-visible&lt;/p&gt;
-						&lt;p&gt;Highlight &lt;span class="fragment highlight-red"&gt;red&lt;/span&gt; &lt;span class="fragment highlight-blue"&gt;blue&lt;/span&gt; &lt;span class="fragment highlight-green"&gt;green&lt;/span&gt;&lt;/p&gt;
-					&lt;/section&gt;
-				&lt;/section&gt;
-
-				&lt;section id="transitions"&gt;
-					&lt;h2&gt;Transition Styles&lt;/h2&gt;
-					&lt;p&gt;
-						You can select from different transitions, like: &lt;br&gt;
-						&lt;a href="?transition=none#/transitions"&gt;None&lt;/a&gt; -
-						&lt;a href="?transition=fade#/transitions"&gt;Fade&lt;/a&gt; -
-						&lt;a href="?transition=slide#/transitions"&gt;Slide&lt;/a&gt; -
-						&lt;a href="?transition=convex#/transitions"&gt;Convex&lt;/a&gt; -
-						&lt;a href="?transition=concave#/transitions"&gt;Concave&lt;/a&gt; -
-						&lt;a href="?transition=zoom#/transitions"&gt;Zoom&lt;/a&gt;
-					&lt;/p&gt;
-				&lt;/section&gt;
-
-				&lt;section id="themes"&gt;
-					&lt;h2&gt;Themes&lt;/h2&gt;
-					&lt;p&gt;
-						reveal.js comes with a few themes built in: &lt;br&gt;
-						&lt;!-- Hacks to swap themes after the page has loaded. Not flexible and only intended for the reveal.js demo deck. --&gt;
-						&lt;a href="#" onclick="document.getElementById('theme').setAttribute('href','https://cad-lab.github.io/cadlab_data/reveal/css/theme/black.css'); return false;"&gt;Black (default)&lt;/a&gt; -
-						&lt;a href="#" onclick="document.getElementById('theme').setAttribute('href','https://cad-lab.github.io/cadlab_data/reveal/css/theme/white.css'); return false;"&gt;White&lt;/a&gt; -
-						&lt;a href="#" onclick="document.getElementById('theme').setAttribute('href','https://cad-lab.github.io/cadlab_data/reveal/css/theme/league.css'); return false;"&gt;League&lt;/a&gt; -
-						&lt;a href="#" onclick="document.getElementById('theme').setAttribute('href','https://cad-lab.github.io/cadlab_data/reveal/css/theme/sky.css'); return false;"&gt;Sky&lt;/a&gt; -
-						&lt;a href="#" onclick="document.getElementById('theme').setAttribute('href','https://cad-lab.github.io/cadlab_data/reveal/css/theme/beige.css'); return false;"&gt;Beige&lt;/a&gt; -
-						&lt;a href="#" onclick="document.getElementById('theme').setAttribute('href','https://cad-lab.github.io/cadlab_data/reveal/css/theme/simple.css'); return false;"&gt;Simple&lt;/a&gt; &lt;br&gt;
-						&lt;a href="#" onclick="document.getElementById('theme').setAttribute('href','https://cad-lab.github.io/cadlab_data/reveal/css/theme/serif.css'); return false;"&gt;Serif&lt;/a&gt; -
-						&lt;a href="#" onclick="document.getElementById('theme').setAttribute('href','https://cad-lab.github.io/cadlab_data/reveal/css/theme/blood.css'); return false;"&gt;Blood&lt;/a&gt; -
-						&lt;a href="#" onclick="document.getElementById('theme').setAttribute('href','https://cad-lab.github.io/cadlab_data/reveal/css/theme/night.css'); return false;"&gt;Night&lt;/a&gt; -
-						&lt;a href="#" onclick="document.getElementById('theme').setAttribute('href','https://cad-lab.github.io/cadlab_data/reveal/css/theme/moon.css'); return false;"&gt;Moon&lt;/a&gt; -
-						&lt;a href="#" onclick="document.getElementById('theme').setAttribute('href','https://cad-lab.github.io/cadlab_data/reveal/css/theme/solarized.css'); return false;"&gt;Solarized&lt;/a&gt;
-					&lt;/p&gt;
-				&lt;/section&gt;
-
-				&lt;section&gt;
-					&lt;section data-background="#dddddd"&gt;
-						&lt;h2&gt;Slide Backgrounds&lt;/h2&gt;
-						&lt;p&gt;
-							Set &lt;code&gt;data-background="#dddddd"&lt;/code&gt; on a slide to change the background color. All CSS color formats are supported.
-						&lt;/p&gt;
-						&lt;a href="#" class="navigate-down"&gt;
-							&lt;img width="178" height="238" data-src="https://s3.amazonaws.com/hakim-static/reveal-js/arrow.png" alt="Down arrow"&gt;
-						&lt;/a&gt;
-					&lt;/section&gt;
-					&lt;section data-background="https://s3.amazonaws.com/hakim-static/reveal-js/image-placeholder.png"&gt;
-						&lt;h2&gt;Image Backgrounds&lt;/h2&gt;
-						&lt;pre&gt;&lt;code class="hljs"&gt;&amp;lt;section data-background="image.png"&amp;gt;&lt;/code&gt;&lt;/pre&gt;
-					&lt;/section&gt;
-					&lt;section data-background="https://s3.amazonaws.com/hakim-static/reveal-js/image-placeholder.png" data-background-repeat="repeat" data-background-size="100px"&gt;
-						&lt;h2&gt;Tiled Backgrounds&lt;/h2&gt;
-						&lt;pre&gt;&lt;code class="hljs" style="word-wrap: break-word;"&gt;&amp;lt;section data-background="image.png" data-background-repeat="repeat" data-background-size="100px"&amp;gt;&lt;/code&gt;&lt;/pre&gt;
-					&lt;/section&gt;
-					&lt;section data-background-video="https://s3.amazonaws.com/static.slid.es/site/homepage/v1/homepage-video-editor.mp4,https://s3.amazonaws.com/static.slid.es/site/homepage/v1/homepage-video-editor.webm" data-background-color="#000000"&gt;
-						&lt;div style="background-color: rgba(0, 0, 0, 0.9); color: #fff; padding: 20px;"&gt;
-							&lt;h2&gt;Video Backgrounds&lt;/h2&gt;
-							&lt;pre&gt;&lt;code class="hljs" style="word-wrap: break-word;"&gt;&amp;lt;section data-background-video="video.mp4,video.webm"&amp;gt;&lt;/code&gt;&lt;/pre&gt;
-						&lt;/div&gt;
-					&lt;/section&gt;
-					&lt;section data-background="http://i.giphy.com/90F8aUepslB84.gif"&gt;
-						&lt;h2&gt;... and GIFs!&lt;/h2&gt;
-					&lt;/section&gt;
-				&lt;/section&gt;
-
-				&lt;section data-transition="slide" data-background="#4d7e65" data-background-transition="zoom"&gt;
-					&lt;h2&gt;Background Transitions&lt;/h2&gt;
-					&lt;p&gt;
-						Different background transitions are available via the backgroundTransition option. This one's called "zoom".
-					&lt;/p&gt;
-					&lt;pre&gt;&lt;code class="hljs"&gt;Reveal.configure({ backgroundTransition: 'zoom' })&lt;/code&gt;&lt;/pre&gt;
-				&lt;/section&gt;
-
-				&lt;section data-transition="slide" data-background="#b5533c" data-background-transition="zoom"&gt;
-					&lt;h2&gt;Background Transitions&lt;/h2&gt;
-					&lt;p&gt;
-						You can override background transitions per-slide.
-					&lt;/p&gt;
-					&lt;pre&gt;&lt;code class="hljs" style="word-wrap: break-word;"&gt;&amp;lt;section data-background-transition="zoom"&amp;gt;&lt;/code&gt;&lt;/pre&gt;
-				&lt;/section&gt;
-
-				&lt;section&gt;
-					&lt;h2&gt;Pretty Code&lt;/h2&gt;
-					&lt;pre&gt;&lt;code class="hljs" data-trim contenteditable&gt;
-function linkify( selector ) {
-  if( supports3DTransforms ) {
-
-    var nodes = document.querySelectorAll( selector );
-
-    for( var i = 0, len = nodes.length; i &amp;lt; len; i++ ) {
-      var node = nodes[i];
-
-      if( !node.className ) {
-        node.className += ' roll';
-      }
-    }
-  }
-}
-					&lt;/code&gt;&lt;/pre&gt;
-					&lt;p&gt;Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft/highlight/en/description/"&gt;highlight.js&lt;/a&gt;.&lt;/p&gt;
-				&lt;/section&gt;
-
-				&lt;section&gt;
-					&lt;h2&gt;Marvelous List&lt;/h2&gt;
-					&lt;ul&gt;
-						&lt;li&gt;No order here&lt;/li&gt;
-						&lt;li&gt;Or here&lt;/li&gt;
-						&lt;li&gt;Or here&lt;/li&gt;
-						&lt;li&gt;Or here&lt;/li&gt;
-					&lt;/ul&gt;
-				&lt;/section&gt;
-
-				&lt;section&gt;
-					&lt;h2&gt;Fantastic Ordered List&lt;/h2&gt;
-					&lt;ol&gt;
-						&lt;li&gt;One is smaller than...&lt;/li&gt;
-						&lt;li&gt;Two is smaller than...&lt;/li&gt;
-						&lt;li&gt;Three!&lt;/li&gt;
-					&lt;/ol&gt;
-				&lt;/section&gt;
-
-				&lt;section&gt;
-					&lt;h2&gt;Tabular Tables&lt;/h2&gt;
-					&lt;table&gt;
-						&lt;thead&gt;
-							&lt;tr&gt;
-								&lt;th&gt;Item&lt;/th&gt;
-								&lt;th&gt;Value&lt;/th&gt;
-								&lt;th&gt;Quantity&lt;/th&gt;
-							&lt;/tr&gt;
-						&lt;/thead&gt;
-						&lt;tbody&gt;
-							&lt;tr&gt;
-								&lt;td&gt;Apples&lt;/td&gt;
-								&lt;td&gt;$1&lt;/td&gt;
-								&lt;td&gt;7&lt;/td&gt;
-							&lt;/tr&gt;
-							&lt;tr&gt;
-								&lt;td&gt;Lemonade&lt;/td&gt;
-								&lt;td&gt;$2&lt;/td&gt;
-								&lt;td&gt;18&lt;/td&gt;
-							&lt;/tr&gt;
-							&lt;tr&gt;
-								&lt;td&gt;Bread&lt;/td&gt;
-								&lt;td&gt;$3&lt;/td&gt;
-								&lt;td&gt;2&lt;/td&gt;
-							&lt;/tr&gt;
-						&lt;/tbody&gt;
-					&lt;/table&gt;
-				&lt;/section&gt;
-
-				&lt;section&gt;
-					&lt;h2&gt;Clever Quotes&lt;/h2&gt;
-					&lt;p&gt;
-						These guys come in two forms, inline: &lt;q cite="http://searchservervirtualization.techtarget.com/definition/Our-Favorite-Technology-Quotations"&gt;
-						&amp;ldquo;The nice thing about standards is that there are so many to choose from&amp;rdquo;&lt;/q&gt; and block:
-					&lt;/p&gt;
-					&lt;blockquote cite="http://searchservervirtualization.techtarget.com/definition/Our-Favorite-Technology-Quotations"&gt;
-						&amp;ldquo;For years there has been a theory that millions of monkeys typing at random on millions of typewriters would
-						reproduce the entire works of Shakespeare. The Internet has proven this theory to be untrue.&amp;rdquo;
-					&lt;/blockquote&gt;
-				&lt;/section&gt;
-
-				&lt;section&gt;
-					&lt;h2&gt;Intergalactic Interconnections&lt;/h2&gt;
-					&lt;p&gt;
-						You can link between slides internally,
-						&lt;a href="#/2/3"&gt;like this&lt;/a&gt;.
-					&lt;/p&gt;
-				&lt;/section&gt;
-
-				&lt;section&gt;
-					&lt;h2&gt;Speaker View&lt;/h2&gt;
-					&lt;p&gt;There's a &lt;a href="https://github.com/hakimel/reveal.js#speaker-notes"&gt;speaker view&lt;/a&gt;. It includes a timer, preview of the upcoming slide as well as your speaker notes.&lt;/p&gt;
-					&lt;p&gt;Press the &lt;em&gt;S&lt;/em&gt; key to try it out.&lt;/p&gt;
-
-					&lt;aside class="notes"&gt;
-						Oh hey, these are some notes. They'll be hidden in your presentation, but you can see them if you open the speaker notes window (hit 's' on your keyboard).
-					&lt;/aside&gt;
-				&lt;/section&gt;
-
-				&lt;section&gt;
-					&lt;h2&gt;Export to PDF&lt;/h2&gt;
-					&lt;p&gt;Presentations can be &lt;a href="https://github.com/hakimel/reveal.js#pdf-export"&gt;exported to PDF&lt;/a&gt;, here's an example:&lt;/p&gt;
-					&lt;iframe data-src="https://www.slideshare.net/slideshow/embed_code/42840540" width="445" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:3px solid #666; margin-bottom:5px; max-width: 100%;" allowfullscreen&gt; &lt;/iframe&gt;
-				&lt;/section&gt;
-
-				&lt;section&gt;
-					&lt;h2&gt;Global State&lt;/h2&gt;
-					&lt;p&gt;
-						Set &lt;code&gt;data-state="something"&lt;/code&gt; on a slide and &lt;code&gt;"something"&lt;/code&gt;
-						will be added as a class to the document element when the slide is open. This lets you
-						apply broader style changes, like switching the page background.
-					&lt;/p&gt;
-				&lt;/section&gt;
-
-				&lt;section data-state="customevent"&gt;
-					&lt;h2&gt;State Events&lt;/h2&gt;
-					&lt;p&gt;
-						Additionally custom events can be triggered on a per slide basis by binding to the &lt;code&gt;data-state&lt;/code&gt; name.
-					&lt;/p&gt;
-					&lt;pre&gt;&lt;code class="javascript" data-trim contenteditable style="font-size: 18px;"&gt;
-Reveal.addEventListener( 'customevent', function() {
-	console.log( '"customevent" has fired' );
-} );
-					&lt;/code&gt;&lt;/pre&gt;
-				&lt;/section&gt;
-
-				&lt;section&gt;
-					&lt;h2&gt;Take a Moment&lt;/h2&gt;
-					&lt;p&gt;
-						Press B or . on your keyboard to pause the presentation. This is helpful when you're on stage and want to take distracting slides off the screen.
-					&lt;/p&gt;
-				&lt;/section&gt;
-
-				&lt;section&gt;
-					&lt;h2&gt;Much more&lt;/h2&gt;
-					&lt;ul&gt;
-						&lt;li&gt;Right-to-left support&lt;/li&gt;
-						&lt;li&gt;&lt;a href="https://github.com/hakimel/reveal.js#api"&gt;Extensive JavaScript API&lt;/a&gt;&lt;/li&gt;
-						&lt;li&gt;&lt;a href="https://github.com/hakimel/reveal.js#auto-sliding"&gt;Auto-progression&lt;/a&gt;&lt;/li&gt;
-						&lt;li&gt;&lt;a href="https://github.com/hakimel/reveal.js#parallax-background"&gt;Parallax backgrounds&lt;/a&gt;&lt;/li&gt;
-						&lt;li&gt;&lt;a href="https://github.com/hakimel/reveal.js#keyboard-bindings"&gt;Custom keyboard bindings&lt;/a&gt;&lt;/li&gt;
-					&lt;/ul&gt;
-				&lt;/section&gt;
-
-				&lt;section style="text-align: left;"&gt;
-					&lt;h1&gt;THE END&lt;/h1&gt;
-					&lt;p&gt;
-						- &lt;a href="http://slides.com"&gt;Try the online editor&lt;/a&gt; &lt;br&gt;
-						- &lt;a href="https://github.com/hakimel/reveal.js"&gt;Source code &amp;amp; documentation&lt;/a&gt;
-					&lt;/p&gt;
-				&lt;/section&gt;
 
 			&lt;/div&gt;
 
@@ -952,45 +541,33 @@ Reveal.addEventListener( 'customevent', function() {
 
 	&lt;/body&gt;
 </t>
-<t tx="amd.20161004083800.6">	&lt;body&gt;
-@others
-                              
-				&lt;!-- Example of nested vertical slides --&gt;
-</t>
 <t tx="amd.20161004083800.7">
 		&lt;div class="reveal"&gt;
 @others
-&lt;p&gt;&lt;a href="https://vimeo.com/183954581"&gt;2016-09-23_fork_pull_requests&lt;/a&gt; from &lt;a href="https://vimeo.com/user24079973"&gt;虎尾科大機械設計工程&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
                               &lt;/section&gt;
 </t>
-<t tx="amd.20161004095719.1">
-			&lt;!-- Any section element inside of this container is displayed as a slide --&gt;
-@others
+<t tx="amd.20161004095719.1">                   
+&lt;div class="slides"&gt;
 				&lt;section&gt;
-					&lt;h2&gt;github_intro&lt;/h2&gt;
-</t>
-<t tx="amd.20161004095719.2">			&lt;div class="slides"&gt;
-				&lt;section&gt;
-					&lt;h1&gt;40523123學員的計算機課程&lt;/h1&gt;
-					&lt;h3&gt;課程內容k&lt;/h3&gt;
+					&lt;h1&gt;40523123郝冠儒&lt;/h1&gt;
+					&lt;h3&gt;網際內容管理簡報&lt;/h3&gt;
 					&lt;p&gt;
-						&lt;small&gt;Created by &lt;a href="http://hakim.se"&gt;Hakim El Hattab&lt;/a&gt; / &lt;a href="http://twitter.com/hakimel"&gt;@hakimel&lt;/a&gt;&lt;/small&gt;
+						&lt;small&gt;Created by &lt;a href="http://hakim.se"&gt;Writer&lt;/a&gt; / &lt;a href="https://github.com/s40523123"&gt;@40523123&lt;/a&gt;&lt;/small&gt;
 					&lt;/p&gt;
-                    &lt;a href="blog/index.html"&gt;blog&lt;/a&gt;
+                    &lt;a href="blog/index.html"&gt;網誌內容連結&lt;/a&gt;
 				&lt;/section&gt;
+</t>
+<t tx="amd.20161004095719.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
 
 </t>
-<t tx="amd.20161004104641.1">@others
-</t>
-<t tx="amd.20161004104641.2"></t>
-<t tx="amd.20161004104820.1">@others
-</t>
-<t tx="amd.20161004105131.1">@others
-</t>
-<t tx="amd.20161004105131.2"></t>
-<t tx="amd.20161004105716.1">@others
-</t>
-<t tx="amd.20161004105716.2"></t>
 <t tx="leo.20151212173315.1"></t>
 <t tx="leo.20151212173315.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
@@ -2154,8 +1731,7 @@ Diff...
 + &lt;section data-markdown&gt;
 +     &lt;script type="text/template"&gt;
   @others
-- &lt;p&gt;&lt;a href="https://vimeo.com/183950627"&gt;2016-09-23_cpb_github_intro&lt;/a&gt; from &lt;a href="https://vimeo.com/user24079973"&gt;虎尾科大機械設計工程&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
-+     &lt;/script&gt;
+  
 - 				&lt;/section&gt;
 ? ----
 + &lt;/section&gt;
@@ -2177,7 +1753,7 @@ Diff...
 						
 </t>
 <t tx="leo.20161118210944.242">@others
-&lt;p&gt;&lt;a href="https://vimeo.com/183950627"&gt;2016-09-23_cpb_github_intro&lt;/a&gt; from &lt;a href="https://vimeo.com/user24079973"&gt;虎尾科大機械設計工程&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
 				&lt;/section&gt;
 				
                                &lt;section&gt;
@@ -2189,16 +1765,13 @@ Diff...
 + 
 + ### 導入影片 template
 + 
-  &lt;iframe src="https://player.vimeo.com/video/183950627" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 </t>
 <t tx="leo.20161118210944.244">## 使用 iframe 導入影片
 
 ### 導入影片 template
 
-&lt;iframe src="https://player.vimeo.com/video/183950627" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 </t>
-<t tx="leo.20161118210944.245">&lt;iframe src="https://player.vimeo.com/video/183950627" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-</t>
+<t tx="leo.20161118210944.245"></t>
 <t tx="leo.20161118210944.25"># 投影片快捷鍵
 
 * 利用箭頭上下前後換頁
@@ -3802,119 +3375,117 @@ Diff...
 				&lt;/section&gt;
 
 </t>
-<t tx="yen.20161011114704.1">@others
+<t tx="leo.20170623004106.1">&lt;h1&gt;自製網路線&lt;/h1&gt;
+網路線分為8P(電腦用)及6P(電話用)。
+
+自製網路線須備器材：
+
+1.8P/6P網路線壓線鉗
+
+2.8P8C網路線接頭
+
+3.適當長度網路線</t>
+<t tx="leo.20170623005150.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
 </t>
-<t tx="yen.20161011114704.2"></t>
-<t tx="yen.20161011115740.1">@others
+<t tx="leo.20170623005154.1">&lt;h1&gt;568B標準線接法&lt;/h1&gt;
+此接線方式為最標準接法，任何電腦連接任何IP分享器、HUB都是用這種壓線方式。
+
+其中線依顏色排列左至右為：
+
+白橘、橘、白綠、藍、白藍、綠、白棕、棕。
+
+且兩頭接法皆相同。</t>
+<t tx="leo.20170623011730.1">&lt;h1&gt;568A電腦對接法&lt;/h1&gt;
+此接法稱為「跳線」，是兩台電腦要互接的壓線方式。
+
+其中線依顏色排列左至右為(兩端接頭不同)：
+
+白橘、橘、白綠、藍、白藍、綠、白棕、棕。
+
+白綠、綠、白橘、藍、白藍、橘、白棕、棕。
+
+(兩端差別為綠與橘對調。)</t>
+<t tx="leo.20170623011730.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
 </t>
-<t tx="yen.20161011115740.2"></t>
-<t tx="yen.20161011121637.1">@others
+<t tx="leo.20170623110900.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
 </t>
-<t tx="yen.20161011121637.2"></t>
-<t tx="yen.20161011122601.1">@others
+<t tx="leo.20170623110907.1">&lt;h1&gt;Fossil&lt;/h1&gt;
+
+Fossil is a simple, high-reliability, distributed software configuration management system.
+
+Integrated Bug Tracking, Wiki, and Technotes.
+
+課程中將要在區域網路與系上主幹中配置兩台Fossil SCM主機。</t>
+<t tx="leo.20170623110936.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
 </t>
-<t tx="yen.20161011122601.2"></t>
-<t tx="yen.20161011122932.1">@others
+<t tx="leo.20170623110941.1">&lt;h1&gt;CMSIMPLY&lt;/h1&gt;
+
+CMSimply is a simple cloud based content mangement system (雲端內容管理系統) written in Python and CherryPy.
+
+all content are saved in a file called content.htm, no database needed (不需要資料庫), uploaded files are stored into images and downloads directories, therefore it is very easy to backup your site.
+
+CMSimply content.htm is compatible with CMSimple.</t>
+<t tx="leo.20170623111355.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
 </t>
-<t tx="yen.20161011122957.1">@others
+<t tx="leo.20170623111400.1">&lt;h1&gt;在VirtualBox中安裝Ubuntu16.04&lt;/h1&gt;
+
+&lt;iframe src="https://player.vimeo.com/video/214364942" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/214364942"&gt;練習在virtualBox中啟動Ubuntu&lt;/a&gt; from &lt;a href="https://vimeo.com/user58916608"&gt;KuanRu&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</t>
+<t tx="leo.20170623111404.1">&lt;h1&gt;在Ubuntu16.04中安裝nginx及設定網路&lt;/h1&gt;
+
+&lt;iframe src="https://player.vimeo.com/video/214365006" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/214365006"&gt;練習在Ubuntu環境下安裝nignx&lt;/a&gt; from &lt;a href="https://vimeo.com/user58916608"&gt;KuanRu&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</t>
+<t tx="leo.20170623111404.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
 </t>
-<t tx="yen.20161011122957.2"></t>
-<t tx="yen.20161011123951.1">@others
+<t tx="leo.20170623111804.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
 </t>
-<t tx="yen.20161011123951.2"></t>
-<t tx="yen.20161011124118.1">@others
+<t tx="leo.20170623111810.1">&lt;h2&gt;在Ubuntu16.04啟動Stunnel與 Fossil SCM&lt;/h2&gt;
+
+&lt;iframe src="https://player.vimeo.com/video/214968806" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/214968806"&gt;在Ubuntu 16.04 環境下啟動 Stunnel 與 Fossil SCM&lt;/a&gt; from &lt;a href="https://vimeo.com/user58916608"&gt;KuanRu&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</t>
+<t tx="leo.20170623112218.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
 </t>
-<t tx="yen.20161011124118.2"></t>
-<t tx="yen.20161011125115.1">@others
-</t>
-<t tx="yen.20161011125115.2">@others
-</t>
-<t tx="yen.20161011125115.3"></t>
-<t tx="yen.20161011143808.1">@others
-</t>
-<t tx="yen.20161011143808.2">@others
-</t>
-<t tx="yen.20161011143808.3"></t>
-<t tx="yen.20161011144113.1">@others
-</t>
-<t tx="yen.20161011144113.2"></t>
-<t tx="yen.20161011144715.1">@others
-</t>
-<t tx="yen.20161011144715.2"></t>
-<t tx="yen.20161011145156.1">@others
-</t>
-<t tx="yen.20161011145156.2">@others
-</t>
-<t tx="yen.20161011145156.3"></t>
-<t tx="yen.20161011145156.4">@others
-</t>
-<t tx="yen.20161011145156.5"></t>
-<t tx="yen.20161011145156.6">@others
-</t>
-<t tx="yen.20161011145156.7"></t>
-<t tx="yen.20161011145755.1">@others
-</t>
-<t tx="yen.20161011145755.2"></t>
-<t tx="yen.20161011145952.1">@others
-</t>
-<t tx="yen.20161011145952.2"></t>
-<t tx="yen.20161011150126.1">@others
-</t>
-<t tx="yen.20161011150126.2"></t>
-<t tx="yen.20161011150316.1">@others
-</t>
-<t tx="yen.20161011150316.2"></t>
-<t tx="yen.20161011150901.1">@others
-</t>
-<t tx="yen.20161011150901.2"></t>
-<t tx="yen.20161011155543.1">@others
-</t>
-<t tx="yen.20161011155543.2"></t>
-<t tx="yen.20161016004633.1">@others
-</t>
-<t tx="yen.20161016004633.4">@others
-</t>
-<t tx="yen.20161016004633.5"></t>
-<t tx="yen.20161016010643.1">@others
-</t>
-<t tx="yen.20161016010643.2"></t>
-<t tx="yen.20161016010719.1">@others
-</t>
-<t tx="yen.20161016011920.1">@others
-</t>
-<t tx="yen.20161016011920.2"></t>
-<t tx="yen.20161016012215.1">@others
-</t>
-<t tx="yen.20161016012215.2"></t>
-<t tx="yen.20161016012253.1">@others
-</t>
-<t tx="yen.20161016012253.2"></t>
-<t tx="yen.20161016012402.1">@others
-</t>
-<t tx="yen.20161016012402.2"></t>
-<t tx="yen.20161016012809.1">@others
-				&lt;iframe src="https://player.vimeo.com/video/183954581" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-</t>
-<t tx="yen.20161016012809.2">@others
-</t>
-<t tx="yen.20161016012809.3"></t>
-<t tx="yen.20161016012809.4">@others
-</t>
-<t tx="yen.20161016012809.5">@language python
-</t>
-<t tx="yen.20161016012809.6">@others
-&lt;p&gt;&lt;a href="https://vimeo.com/183950627"&gt;2016-09-23_cpb_github_intro&lt;/a&gt; from &lt;a href="https://vimeo.com/user24079973"&gt;虎尾科大機械設計工程&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
-				&lt;/section&gt;
-				
-                               &lt;section&gt;
-					&lt;h2&gt;fork_pull_requests&lt;/h2&gt;
-</t>
-<t tx="yen.20161016012809.7">&lt;iframe src="https://player.vimeo.com/video/183950627" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-</t>
-<t tx="yen.20161016012922.1"></t>
-<t tx="yen.20161016023122.1">@others
-</t>
-<t tx="yen.20161016023122.2"></t>
+<t tx="leo.20170623112223.1">&lt;h1&gt;END&lt;/h1&gt;</t>
 <t tx="yen.20161022111056.1">@language python
 import os
 import subprocess
